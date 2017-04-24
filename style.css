@@ -40,7 +40,8 @@ h2{
      font-size: 22px;
  }
  .container{
-       margin: 20px, auto,0,auto;
+        width:1140px;
+        margin: 20px auto 0 auto;
  }
  .blog-post{
      
@@ -63,3 +64,8 @@ h2{
  .other{
      margin-bottom: 40px;
  }
+
+.author-box img{
+    height:100px;
+    width: 100px;
+}
